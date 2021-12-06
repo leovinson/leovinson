@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @leovinson
-- 👀 I’m interested in ... Java and Android Studio
+- 👋 Hi, I’m @leovinson. Still a beginner
+- 👀 I’m interested in ... Creating mobile and desktop applications
 - 🌱 I’m currently learning ... Java and Android Studio
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... TBD. Still familiarizing myself with github
 - 📫 How to reach me ... leovinson.singson@gmail.com
 
 <!---
